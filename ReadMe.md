@@ -6,5 +6,3 @@
 - [Component Lifecycle](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/6_Component%20Lifecycle){:target="\_blank"}
 - [Hooks](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks){:target="\_blank"}
 - [React Router](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/8_React%20Router){:target="\_blank"}
-
-**Note**: I will make sure to keep this updated.
