@@ -254,7 +254,7 @@ The create-react-app tool installs all the libraries and packages required to bu
 
 **What is npm and npx?**
 
-npm is the node package manager for JavaScript. It helps you manage all the 3rd party packages and libraries that you will be installing for your application. It installed automatically when you install Node JS. You can check out my [blog](https://praveenoruganti.blogspot.com/2019/11/npm-basics.html){:target="\_blank"} for more information on npm.
+npm is the node package manager for JavaScript. It helps you manage all the 3rd party packages and libraries that you will be installing for your application. It installed automatically when you install Node JS. You can check out my [blog](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html){:target="\_blank"} for more information on npm.
 
 npx is a node package runner. It is used to download and run a package temporarily.
 
