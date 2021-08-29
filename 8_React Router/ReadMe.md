@@ -26,7 +26,7 @@ So there are two libraries - one for the web which is react-router-dom and the o
 
 Now we will be exploring all about the react-router-dom library which is used for building web applications in React.
 
-Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-course/tree/master/8_React%20Router/Demo/praveenorugantitech-react-router){:target="_blank"}
+Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenoruganti/praveenoruganti-reactjs-course/tree/master/8_React%20Router/Demo/praveenoruganti-react-router){:target="_blank"}
 
 ```jsx
 npm install react-router-dom
@@ -74,11 +74,11 @@ The **exact** is a boolean prop so when we provide exact={true} as a prop to the
 
 Now lets open these routes in browser
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/Home.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/Home.PNG)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/About.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/About.PNG)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/Contact.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/Contact.PNG)
 
 ## 404 page
 
@@ -86,7 +86,7 @@ Now, we're able to correctly render the Home, About and Contact components.
 
 But what If, we access a route that does not exist?
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/Help_Blank.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/Help_Blank.PNG)
 
 As you can see, when we access the /help route, we get a blank page because such route does not exist and we don't get any error in the console also.
 
@@ -125,7 +125,7 @@ And the last NotFound component Route will act as a default case because we have
 
 If you try an invalid route now, you will see the NotFound page being displayed.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/Help_NotFound.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/Help_NotFound.PNG)
 
 
 ## Adding Navigation
@@ -216,7 +216,7 @@ body {
 
 Now you will see the following screen:
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/Navigation.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/Navigation.PNG)
 
 
 ## Using Link
@@ -339,7 +339,7 @@ export default Header;
 
 Here, we have given the activeClassName prop to all the links so when we're on that route, the React router will automatically add that class to that link.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/8_React%20Router/Demo/praveenorugantitech-react-router/src/images/NavLink.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/8_React%20Router/Demo/praveenoruganti-react-router/src/images/NavLink.PNG)
 
 
 

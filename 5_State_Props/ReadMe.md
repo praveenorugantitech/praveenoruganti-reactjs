@@ -56,7 +56,7 @@ return (
 );
 ```
 
-You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}
+You can also check the [demo](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}
 
 In Class Component, we need to use **this.props** instead of **props** as props is reserved keyword refers to the class.
 
@@ -115,7 +115,7 @@ class StateTest extends React.Component {
 }
 ```
 
-You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state.html){:target="\_blank"}
+You can also check the [demo](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/5_State_Props/Demo/state.html){:target="\_blank"}
 
 **How do you update a component's state?**
 
@@ -209,7 +209,7 @@ class App extends React.Component {
 }
 ```
 
-You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state_event.html){:target="\_blank"}
+You can also check the [demo](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/5_State_Props/Demo/state_event.html){:target="\_blank"}
 
 ## What are the differences between props and state?
 
