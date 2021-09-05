@@ -53,13 +53,13 @@ React provides a few built-in Hooks like useState. You can also create your own 
 
 Here with the different types of React Hooks.
 
-- [useState](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/1_useState){:target="_blank"}
-- [useEffect](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/2_useEffect){:target="_blank"}
-- [useContext](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/3_useContext){:target="_blank"}
-- [useRef](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/4_useRef){:target="_blank"}
-- [useReducer](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/5_useReducer){:target="_blank"}
-- [useMemo and useCallback](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/6_useMemo_useCallback){:target="_blank"}
-- [Custom Hook](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/7_Custom_Hook){:target="_blank"}
+- [useState](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/1_useState)
+- [useEffect](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/2_useEffect)
+- [useContext](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/3_useContext)
+- [useRef](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/4_useRef)
+- [useReducer](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/5_useReducer)
+- [useMemo and useCallback](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/6_useMemo_useCallback)
+- [Custom Hook](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/7_Custom_Hook)
 
 ## React Component Lifecycle methods in Hooks
 
