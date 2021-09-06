@@ -26,7 +26,7 @@ class App extends React.Component {
 }
 ```
 
-You can also check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/4_Components/Demo/ClassComponent.html).{:target="\_blank"}
+You can also check out the [Demo](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/4_Components/Demo/ClassComponent.html).{:target="\_blank"}
 
 ## Function Components
 
@@ -46,7 +46,7 @@ const App = () => {
 };
 ```
 
-You can also check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/4_Components/Demo/FunctionComponent.html).{:target="\_blank"}
+You can also check out the [Demo](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/4_Components/Demo/FunctionComponent.html).{:target="\_blank"}
 
 The above two components are equivalent from React's point of view.
 
@@ -56,12 +56,12 @@ React treats components starting with lowercase letters as DOM tags. For example
 
 ## Difference between Functional and Class components
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/4_Components/images/components.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/4_Components/images/components.PNG)
 
-You can learn more about state and props in [State and Props](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/5_State_Props/){:target="\_blank"}
+You can learn more about state and props in [State and Props](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/5_State_Props/){:target="\_blank"}
 
 **Functional components after Hooks Introduction**
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/4_Components/images/components_comparision.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/4_Components/images/components_comparision.PNG)
 
-You can learn more about Hooks in [Hooks](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/7_Hooks/){:target="\_blank"}
+You can learn more about Hooks in [Hooks](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/7_Hooks/){:target="\_blank"}

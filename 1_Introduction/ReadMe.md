@@ -8,7 +8,7 @@ React JS is an Open Sourced JavaScript library for building fast and interactive
 
 ## Why React JS is so popular?
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/reactjs.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/reactjs.png)
 
 Developers often use React as a base for developing single-page web applications and then use other libraries to provide extra support to their web application.
 
@@ -110,7 +110,7 @@ Hence, finding a React JS developer will be easier for you. Moreover, it is simp
 
 Lets see the React JS roadmap and go deeper into the concepts.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/roadmap.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/roadmap.jpg)
 
 ## Aspects of React JS
 
@@ -128,15 +128,15 @@ The Virtual DOM works in three simple steps.
 
 - Whenever any underlying data changes, the entire UI is re-rendered in Virtual DOM representation.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom1.png)
 
 - Then the difference between the previous DOM representation and the new one is calculated.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom2.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom2.png)
 
 - Once the calculations are done, the real DOM will be updated with only the things that have actually changed.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom3.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/virtualdom3.png)
 
 Updating virtual DOM in React JS is faster because React JS uses
 
@@ -147,7 +147,7 @@ Updating virtual DOM in React JS is faster because React JS uses
 
 ## Difference between Real DOM and Virtual DOM
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/realdom_virtualdom.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/realdom_virtualdom.PNG)
 
 ## What is the difference between Shadow DOM and Virtual DOM?
 
@@ -158,7 +158,7 @@ The Shadow DOM is a browser technology designed primarily for scoping variables 
 React JS follows unidirectional data flow or one way data binding.
 Throughout the application the data flows in a single direction which gives you better control over it.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/databinding.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/databinding.png)
 
 ## What is Server side rendering?
 
@@ -166,7 +166,7 @@ Server side rendering allows you to pre-render the initial state of react compon
 
 ## How is React different from Angular?
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/reactvsangular.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/reactvsangular.PNG)
 
 ## What is React DOM?
 
@@ -216,7 +216,7 @@ const app = React.createElement("h1", null, "Hello World");
 ReactDOM.render(app, rootElement);
 ```
 
-**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenoruganti.github.io/praveenoruganti-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}
+**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}
 
 ## What is the purpose of render() in React
 
@@ -296,6 +296,6 @@ It is good to know these folders and files.
 
 Now run the application using **npm start** and you will see the below in browser.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/1_Introduction/images/reactjs1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/1_Introduction/images/reactjs1.png)
 
 Now lets remove all the files, which we do not need at the moment, and leave only the files we need right now.

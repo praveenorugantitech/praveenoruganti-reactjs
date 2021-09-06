@@ -1,6 +1,6 @@
 # useContext Hook
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs-course/master/7_Hooks/images/prop_drilling.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenoruganti-reactjs-course/master/7_Hooks/images/prop_drilling.jpg)
 
 To avoid prop drilling, we need to make use of Context API in class components and useContext in functional components.
 
