@@ -6,3 +6,4 @@
 - [Component Lifecycle](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/6_Component%20Lifecycle)
 - [Hooks](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/7_Hooks)
 - [React Router](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/8_React%20Router)
+- [Redux](https://praveenorugantitech.github.io/praveenoruganti-reactjs-course/9_Redux)
